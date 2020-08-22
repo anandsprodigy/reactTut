@@ -4,8 +4,14 @@ body {
 	font-family: 'Open Sans', sans-serif;
   	-webkit-font-smoothing: antialiased;
   	-moz-osx-font-smoothing: grayscale;
+  	text-align: center;
 }
 
 code {
   	font-family: 'Open Sans', sans-serif;
+}
+
+.hello{
+	color: #d35400;
+	text-align: center;
 }
