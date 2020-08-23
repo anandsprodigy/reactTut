@@ -7,7 +7,7 @@ export default class Navbar_Center extends Component{
 	render() {
 		return(
 			<>
-			<Navbar bg="light" variant="light">
+			<Navbar variant="light">
 			<Nav className="mx-auto">
 				<Nav.Link href="#home">Home</Nav.Link>
 				<Nav.Link href="#features">Services</Nav.Link>
