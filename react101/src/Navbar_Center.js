@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import './index.css';
 import { Navbar, Nav, NavItem, NavDropdown, MenuItem } from 'react-bootstrap';
+import './Navbar_Center.css';
 
 
 export default class Navbar_Center extends Component{
